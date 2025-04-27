@@ -7,7 +7,6 @@ Este repositorio contiene soluciones a los ejercicios disponibles en la página 
 Cada solución está organizada en carpetas según el nombre o número del ejercicio en LeetCode. Dentro de cada carpeta, encontrarás:
 
 - **Código fuente**: Implementación de la solución en uno o más lenguajes de programación.
-- **README**: Explicación breve del problema y la solución propuesta.
 
 ## Cómo Contribuir
 
